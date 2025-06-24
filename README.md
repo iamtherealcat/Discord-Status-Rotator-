@@ -8,6 +8,7 @@ and i dont want that you need to install the packages yourself
 
 Source of course
 
+im going to improve it over time and give it to you guys for free in release not open source
 
 Preview
 ![image](https://github.com/user-attachments/assets/6b2c6a94-8fac-40bb-8545-6acf72265662)
