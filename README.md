@@ -2,6 +2,10 @@
 an simple status rotator in c# written by me for fun usage just get your discord token tutorials on youtube put it in set token rest is self explaining
 
 
+## \packages\Microsoft.VisualBasic.10.3.0.zip 
+### you have to unzip the file it was too big to upload 
+and i dont want that you need to install the packages yourself
+
 Source of course
 
 
